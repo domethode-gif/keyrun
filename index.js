@@ -11,7 +11,7 @@ async function handleRequest(request) {
   return new Response(script, {
     headers: {
       'content-type': 'text/plain;charset=UTF-8',
-      'content-disposition': 'attachment; filename="keyrun.bat"'
+      'content-disposition': 'attachment; filename="finalkey.bat"'
     }
   })
 }
