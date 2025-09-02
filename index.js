@@ -3,8 +3,7 @@ addEventListener('fetch', event => {
 })
 
 async function handleRequest(request) {
-  // Ambil file script dari repo (keyrun.bat)
-  const url = 'https://raw.githubusercontent.com/USERNAME/REPO/main/keyrun.bat'
+  const url = 'https://raw.githubusercontent.com/domethode-gif/keyrun/refs/heads/main/finalkey.bat'
   const res = await fetch(url)
   const script = await res.text()
 
